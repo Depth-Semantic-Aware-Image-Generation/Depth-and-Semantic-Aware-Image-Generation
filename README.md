@@ -1,7 +1,6 @@
 # Depth-and-Semantic-Aware-Image-Generation
 Bachelor's thesis: [Depth and Semantic Aware Image Generation](https://taai2022.github.io/dprogram.html). The 27th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2022 Domestic Track (oral).
 
-![show2 Image](data/show2.png)
 ![show3 Image](data/show3.png)
 
 ## Preparation and Process
@@ -31,5 +30,6 @@ Modify the model architecture of SPADE to our proposed two-stage model architect
 - **models**:  
   Store the network architecture of the model.
 - **train.py & test.py**:  
-  Respectively the code for training and predicting models.
+  Respectively the code for training and predicting models.  
   
+![show2 Image](data/show2.png)
