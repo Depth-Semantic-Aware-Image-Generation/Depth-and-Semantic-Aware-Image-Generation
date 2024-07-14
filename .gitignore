@@ -1,0 +1,7 @@
+SPADE-seg_dep2rgb/results/
+SPADE-seg2dep/results/
+.idea/
+*.tar.gz
+*.zip
+*.pkl
+*.pyc
