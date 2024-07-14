@@ -9,7 +9,7 @@ This repository refers to [SPADE](https://github.com/NVlabs/SPADE).
 Modify the model architecture of SPADE to our proposed two-stage model architecture.
 1. First, use the official weight files provided in [monodepth2](https://github.com/nianticlabs/monodepth2) to predict the depth images of all training data as the ground truth for later use.
 2. Train the original [SPADE architecture](https://github.com/NVlabs/SPADE) to output depth images instead of real images.
-3. Next, train [our proposed model](https://taai2022.github.io/dprogram.html), combining segmentation images and depth images as the input, with the output remaining the same as the original SPADE.
+3. Next, train [our proposed model](https://github.com/Depth-Semantic-Aware-Image-Generation/Depth-and-Semantic-Aware-Image-Generation?tab=readme-ov-file), combining segmentation images and depth images as the input, with the output remaining the same as the original SPADE.
 4. Combining these two models enables end-to-end prediction.
 5. Finally, we choose [FID](https://github.com/mseitzer/pytorch-fid) as the evaluation method for image generation
 
