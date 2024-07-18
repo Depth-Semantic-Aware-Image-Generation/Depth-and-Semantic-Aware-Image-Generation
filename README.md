@@ -1,5 +1,5 @@
 # Depth-and-Semantic-Aware-Image-Generation
-Bachelor's thesis: [Depth and Semantic Aware Image Generation](https://taai2022.github.io/dprogram.html). The 27th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2022 Domestic Track (oral).
+Bachelor's thesis: [Depth and Semantic Aware Image Generation](https://taai2022.github.io/dprogram.html). Presented at the 27th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2022 Domestic Track (oral).
 
 ![show3 Image](data/show3.png)
 
